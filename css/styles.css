@@ -469,7 +469,6 @@ img {
   display: flex;
   justify-content: center;
   gap: 24px;
-
 }
 
 .team-social-item {
@@ -709,7 +708,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-  border-radius: 24px;
+  border-radius: 50%;
   border: 1px solid rgba(0, 0, 0, 0.1);
   background-color: rgba(231, 233, 252, 1);
   padding: 0;
